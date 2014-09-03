@@ -234,6 +234,8 @@ header {
 
 footer {
   margin-top: 4ex;
+  padding: 2ex;
+  text-align: center;
   background-color: #666666;
   color: #dddddd; }
 
